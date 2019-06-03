@@ -99,7 +99,7 @@ let home = `
 		<img class="card-img-top rounded-0" src="images/licens.png" id="commingSoonOko" alt="licens"> </a> 
 	</div>
     <div class="card"> <a href="#"> 
-		<img class="card-img-top rounded-0" src="images/madbudget.png" id="budgetMad" alt="Madbudget"> </a> 
+		<img class="card-img-top rounded-0" src="images/nemmad.jpg" id="budgetMad" alt="Madbudget"> </a> 
 	</div>
   </div>
   <button onclick="topFunction()" id="myBtn" title="Go to top">&#8593;</button>
@@ -129,11 +129,11 @@ let inspiration = `
   </div>
 </div>
 <div class="row text-center text-i-row pLarge">
-  <div class="col-2"></div>
+<div class="col-2"></div>
   <div class="col-8">
     <p>En side, som kan give dig nye ideer og inspiration til din altan og have, indretning, indkøb og opskrifter. Herunder kan du blandt andet lære om, hvordan du optimerer din indretning, og hvad der er smart at købe på din første indkøbstur</p>
   </div>
-  <div class="col-2"></div>
+<div class="col-2"></div>
 </div>
 
 <!--på lille ser den sådan her ud-->
@@ -1441,7 +1441,7 @@ let opskrift = `
 <!--content-->
 <div class="row">
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/madbudget.png" id="budgetMad" class="card-img rounded-0" alt="Madbudget"> </a> </div>
+    <div class="card bg-dark"> <a href=""> <img src="images/nemmad.jpg" id="budgetMad" class="card-img rounded-0" alt="Madbudget"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
     <div class="card bg-dark"> <a href=""> <img src="images/vegetar.jpg" id="commingSoonInspiOpskrift" class="card-img rounded-0" alt="Vegetar"> </a> </div>
