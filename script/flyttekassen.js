@@ -75,18 +75,7 @@ let home = `
 </div>
 <div class="row align-content-center">
   <div class="card-columns">
-    <div class="card"> <a href="#"> 
-		<img class="card-img-top rounded-0" src="images/sengeset.png" id="sengeSat" alt="Sengesæt"> </a> 
-	</div>
-    <div class="card"> <a href="#"> 
-		<img class="card-img-top rounded-0" src="images/hotel.jpg" id="insekt" alt="Insekthotel"> </a> 
-	</div>
-    <div class="card"> <a href="#"> 
-		<img class="card-img-top rounded-0" src="images/eggs_kant.jpg" id="skrald" alt="Æggebakke med blomster"> </a> 
-	</div>
-    <div class="card"> <a href="#"> 
-		<img class="card-img-top rounded-0" src="images/roomies.png" id="roomie" alt="Gode roomie råd"> </a> 
-	</div>
+	
     <div class="card"> <a href="#"> 
 		<img class="card-img rounded-0" src="images/budget.jpg" id="ligBudget" alt="budget"> </a> 
 	</div>
@@ -94,12 +83,26 @@ let home = `
 		<img class="card-img rounded-0" src="images/badlang.jpg" id="makeoverBad" alt="Makeover af badeværelse"> </a> 
 	</div>
     <div class="card"> <a href="#"> 
-		<img class="card-img-top rounded-0" src="images/statestik_card.png" id="infografik" alt="Inforgrafik over flytning"> </a> </div>
-    <div class="card"> <a href="#"> 
-		<img class="card-img-top rounded-0" src="images/licens.png" id="commingSoonOko" alt="licens"> </a> 
+		<img class="card-img rounded-0" src="images/hotel.jpg" id="insekt" alt="Insekthotel"> </a> 
 	</div>
     <div class="card"> <a href="#"> 
-		<img class="card-img-top rounded-0" src="images/nemmad.jpg" id="budgetMad" alt="Madbudget"> </a> 
+		<img class="card-img rounded-0" src="images/eggs_kant.jpg" id="skrald" alt="Æggebakke med blomster"> </a> 
+	</div>
+    <div class="card"> <a href="#"> 
+		<img class="card-img rounded-0" src="images/roomies.png" id="roomie" alt="Gode roomie råd"> </a> 
+	</div>
+    <div class="card"> <a href="#"> 
+		<img class="card-img rounded-0" src="images/flytflyt.jpg" id="infografik" alt="Inforgrafik over flytning"> </a> 
+	</div>
+	<div class="card"> <a href="#"> 
+		<img class="card-img rounded-0" src="images/house2.jpg" id="commingSoonHouse" alt="Madbudget"> </a> 
+	</div>
+    <div class="card"> <a href="#"> 
+		<img class="card-img rounded-0" src="images/nemmad.jpg" id="budgetMad" alt="Madbudget"> </a> 
+	</div>
+	
+    <div class="card"> <a href="#"> 
+		<img class="card-img rounded-0" src="images/sengeset.png" id="sengeSat" alt="Sengesæt"> </a> 
 	</div>
   </div>
   <button onclick="topFunction()" id="myBtn" title="Go to top">&#8593;</button>
@@ -422,7 +425,25 @@ let commingSoonOko = `
 			<h1>KOMMER SNART...</h1>
 		</div>
 	</div>
-
+`
+let commingSoonHouse = `
+<!--INDLÆG KOMMER SNART-->
+<!--BREADCRUMBSTIEN-->
+<div class="row">
+	<div class="col-12 tilbageKnap">
+			<ul class="breadcrumb">
+			  <li><a href="#" id="home">HJEM</a></li>
+			  <li class="sidsteCrumb">KOMMER SNART</li>
+			</ul>
+	</div>
+</div>
+<!--content-->
+<!--Indlæg "KOMMER SNART"-->
+	<div class="row text-center text-i-row">
+		<div class="col-12 kommerSnart">
+			<h1>KOMMER SNART...</h1>
+		</div>
+	</div>
 `
 
 									//FORSIDE-SIDEN
@@ -1772,7 +1793,7 @@ let gorDetSelv = `
     <div class="card bg-dark"> <a href=""> <img src="images/internet.jpg" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="Internet"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/hylde.jpg" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="Hylde"> </a> </div>
+    <div class="card bg-dark"> <a href=""> <img src="images/hylde2.jpg" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="Hylde"> </a> </div>
   </div>
 </div>
 <button onclick="topFunction()" id="myBtn" title="Go to top">&#8593;</button>
@@ -1931,6 +1952,7 @@ document.getElementById('page').addEventListener('click', function (e) {
 		commingSoonOko: commingSoonOko,
 		commingSoonPrakRen: commingSoonPrakRen,
 		commingSoonPrakGorSelv: commingSoonPrakGorSelv,
+		commingSoonHouse: commingSoonHouse,
 		
 		
 	//Indlægsobjekter
