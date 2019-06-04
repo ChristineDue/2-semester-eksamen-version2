@@ -306,7 +306,7 @@ h4{
 
 /*Go to top knap*/
 #myBtn:hover {
-  	background-color: none;
+  	background-color: yellow; /* Add a dark-grey background on hover */
 }
 	
 /*Stue*/
