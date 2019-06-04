@@ -1377,7 +1377,7 @@ let budgetMad = `
       <li><a href="#" id="home">HJEM</a></li>
       <li><a href="#" id="inspiration">INSPIRATION</a></li>
       <li> <a href="#" id="opskrift">OPSKRIFTER</a></li>
-      <li class="sidsteCrumb">MADLAVNING PÅ BUDGET</li>
+      <li class="sidsteCrumb">NEM MAD</li>
     </ul>
   </div>
 </div>
@@ -1386,7 +1386,7 @@ let budgetMad = `
 <!--indlæg om "simpel madlavning"-->
 <div class="row text-center text-i-row">
   <div class="col-12">
-    <h1>MADLAVNING PÅ BUDGET</h1>
+    <h1>NEM MAD</h1>
   </div>
 </div>
 <div class="row text-center text-i-row pLarge">
