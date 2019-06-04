@@ -102,7 +102,7 @@ ul.breadcrumb li a:hover {
 
 /*Bestemmer størrelsen på slideshow billede*/
 .carousel-inner img{
-	height: 400px;
+	height: 300px;
 }
 /*Flytter billedtekst og overskrift på slideshow*/
 .carousel-caption{

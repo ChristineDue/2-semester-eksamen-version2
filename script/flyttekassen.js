@@ -23,19 +23,19 @@ let home = `
           <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
         </ol>
         <div class="carousel-inner">
-          <div class="carousel-item active"> <img src="images/slideshow/ikea-tur.jpg" class="d-block w-100" alt="ikea slidehow" id="ikea">
+          <div class="carousel-item active"> <img src="images/slideshow/ikeany.jpg" class="d-block w-100" alt="ikea slidehow" id="ikea">
             <div class="carousel-caption d-none d-md-block" id="ikea">
               <h3>Din første IKEA-tur!</h3>
               <p>Har du svært ved at finde ud af, hvad du skal købe i IKEA, så følg med!</p>
             </div>
           </div>
-          <div class="carousel-item"> <img src="images/slideshow/flyttekasse_illustration.png" id="flyttemand" class="d-block w-100" alt="Flyttekasser i stabel">
+          <div class="carousel-item"> <img src="images/slideshow/flytflytkas.jpg" id="flyttemand" class="d-block w-100" alt="Flyttekasser i stabel">
             <div class="carousel-caption d-none d-md-block" id="flyttemand">
               <h3>Er du klar til din flyttemand?</h3>
               <p>Er du begravet i flytterod. Få gode tips til hvordan du bliver klar til flyttemanden!</p>
             </div>
           </div>
-          <div class="carousel-item"> <img src="images/slideshow/huskeliste2.jpg" class="d-block w-100" alt="Huskeliste over flytning" id="flyttehuskeliste">
+          <div class="carousel-item"> <img src="images/slideshow/huskhusk.jpg" class="d-block w-100" alt="Huskeliste over flytning" id="flyttehuskeliste">
             <div class="carousel-caption d-none d-md-block" id="flyttehuskeliste">
               <h3>Huskeliste til din første flytning!</h3>
               <p>Få et nemt overblik over, hvad du skal have med dig når du flytter!</p>
