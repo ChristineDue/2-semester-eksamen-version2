@@ -144,16 +144,16 @@ let inspiration = `
 
 <div class="row">
   <div class="col-12 col-md-6">
-    <div class="card bg-dark"> <a href=""> <img src="images/altanoghave.png" id="altanHave" class="card-img rounded-0" alt="altan og have"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/altanoghave.png" id="altanHave" class="card-img rounded-0" alt="altan og have"> </a> </div>
   </div>
   <div class="col-12 col-md-6">
-    <div class="card bg-dark"> <a href=""> <img src="images/indret2.jpg" id="indretning" class="card-img rounded-0" alt="indretning"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/indret2.jpg" id="indretning" class="card-img rounded-0" alt="indretning"> </a> </div>
   </div>
   <div class="col-12 col-md-6">
-    <div class="card bg-dark"> <a href=""> <img src="images/indkoeb.jpg" id="indkob" class="card-img rounded-0" alt="Indkøb"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/indkoeb.jpg" id="indkob" class="card-img rounded-0" alt="Indkøb"> </a> </div>
   </div>
   <div class="col-12 col-md-6">
-    <div class="card bg-dark"> <a href=""> <img src="images/opskrifter.jpg" id="opskrift" class="card-img rounded-0" alt="opskirfter"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/opskrifter.jpg" id="opskrift" class="card-img rounded-0" alt="opskirfter"> </a> </div>
   </div>
 </div>
 <button onclick="topFunction()" id="myBtn" title="Go to top">&#8593;</button>
@@ -192,16 +192,16 @@ let praktisk = `
 
 <div class="row">
   <div class="col-12 col-md-6">
-    <div class="card bg-dark"> <a href=""> <img src="images/rengoring1.png" id="rengoring" class="card-img rounded-0" alt="Rengøring"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/rengoring1.png" id="rengoring" class="card-img rounded-0" alt="Rengøring"> </a> </div>
   </div>
   <div class="col-12 col-md-6">
-    <div class="card bg-dark"> <a href=""> <img src="images/bestil_flyt.jpg" id="flyttemand" class="card-img rounded-0" alt="Flyttemand"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/bestil_flyt.jpg" id="flyttemand" class="card-img rounded-0" alt="Flyttemand"> </a> </div>
   </div>
   <div class="col-12 col-md-6">
-    <div class="card bg-dark"> <a href=""> <img src="images/gordetselv.jpg" id="gorDetSelv" class="card-img rounded-0" alt="Gør det selv"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/gordetselv.jpg" id="gorDetSelv" class="card-img rounded-0" alt="Gør det selv"> </a> </div>
   </div>
   <div class="col-12 col-md-6">
-    <div class="card bg-dark"> <a href=""> <img src="images/flytteliste.jpg" id="flyttehuskeliste" class="card-img rounded-0" alt="Flyttehuskeliste"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/flytteliste.jpg" id="flyttehuskeliste" class="card-img rounded-0" alt="Flyttehuskeliste"> </a> </div>
   </div>
 </div>
 <div class="col-12 banner">
@@ -244,22 +244,22 @@ let okonomi = `
 
 <div class="row">
   <div class="col-12 col-md-6">
-    <div class="card bg-dark"> <a href=""> <img src="images/hold_budget.jpg" id="styrBudget" class="card-img rounded-0" alt="Hold styr på dit budget"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/hold_budget.jpg" id="styrBudget" class="card-img rounded-0" alt="Hold styr på dit budget"> </a> </div>
   </div>
   <div class="col-12 col-md-6">
-    <div class="card bg-dark"> <a href=""> <img src="images/faellesoekonomi.jpg" id="commingSoonOko" class="card-img rounded-0" alt="Overbliv over fællesøkonomi"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/faellesoekonomi.jpg" id="commingSoonOko" class="card-img rounded-0" alt="Overbliv over fællesøkonomi"> </a> </div>
   </div>
   <div class="col-12 col-md-6">
-    <div class="card bg-dark"> <a href=""> <img src="images/su.png" id="commingSoonOko" class="card-img rounded-0" alt="SU"></a> </div>
+    <div class="card"> <a href=""> <img src="images/su.png" id="commingSoonOko" class="card-img rounded-0" alt="SU"></a> </div>
   </div>
   <div class="col-12 col-md-6">
-    <div class="card bg-dark"> <a href=""> <img src="images/licens.png" id="commingSoonOko" class="card-img rounded-0" alt="Licens"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/licens.png" id="commingSoonOko" class="card-img rounded-0" alt="Licens"> </a> </div>
   </div>
   <div class="col-12 col-md-6">
-    <div class="card bg-dark"> <a href=""> <img src="images/budget.jpg" id="ligBudget" class="card-img rounded-0" alt="Lig budget"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/budget.jpg" id="ligBudget" class="card-img rounded-0" alt="Lig budget"> </a> </div>
   </div>
   <div class="col-12 col-md-6">
-    <div class="card bg-dark"> <a href=""> <img src="images/forsikringer.jpg" id="commingSoonOko" class="card-img rounded-0" alt="Forsikringer"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/forsikringer.jpg" id="commingSoonOko" class="card-img rounded-0" alt="Forsikringer"> </a> </div>
   </div>
 </div>
 <button onclick="topFunction()" id="myBtn" title="Go to top">&#8593;</button>
@@ -645,22 +645,22 @@ let altanHave = `
 <!--content-->
 <div class="row">
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/gronne_fingre.jpg" id="commingSoonInspiHave" class="card-img rounded-0" alt="Grønne fingre"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/gronne_fingre.jpg" id="commingSoonInspiHave" class="card-img rounded-0" alt="Grønne fingre"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/altan.png" id="altanSat" class="card-img rounded-0" alt="Altansæt"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/altan.png" id="altanSat" class="card-img rounded-0" alt="Altansæt"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/hotel.jpg" id="insekt" class="card-img rounded-0" alt="Insekthotel"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/hotel.jpg" id="insekt" class="card-img rounded-0" alt="Insekthotel"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/katus.jpg" id="commingSoonInspiHave" class="card-img rounded-0" alt="Kaktus"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/katus.jpg" id="commingSoonInspiHave" class="card-img rounded-0" alt="Kaktus"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/eggs_kant.jpg" id="skrald" class="card-img rounded-0" alt="Æggebakke med blomster"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/eggs_kant.jpg" id="skrald" class="card-img rounded-0" alt="Æggebakke med blomster"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/pimp_krukker.jpg" id="commingSoonInspiHave" class="card-img rounded-0" alt="Krukker"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/pimp_krukker.jpg" id="commingSoonInspiHave" class="card-img rounded-0" alt="Krukker"> </a> </div>
   </div>
 </div>
 <button onclick="topFunction()" id="myBtn" title="Go to top">&#8593;</button>
@@ -843,31 +843,31 @@ let indretning = `
 <!--content-->
 <div class="row">
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/1-room.png" id="etVarelse" class="card-img rounded-0" alt="Et værelses lejlighed"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/1-room.png" id="etVarelse" class="card-img rounded-0" alt="Et værelses lejlighed"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/piftstue.jpg" id="piftStuen" class="card-img rounded-0" alt="Pift stuen"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/piftstue.jpg" id="piftStuen" class="card-img rounded-0" alt="Pift stuen"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/mereplads.jpg" id="commingSoonInspiIndret" class="card-img rounded-0" alt="Få mere plads"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/mereplads.jpg" id="commingSoonInspiIndret" class="card-img rounded-0" alt="Få mere plads"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/fem_fejl.png" id="commingSoonInspiIndret" class="card-img rounded-0" alt="Fem fejl i din indretning"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/fem_fejl.png" id="commingSoonInspiIndret" class="card-img rounded-0" alt="Fem fejl i din indretning"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/badkort.jpg" id="makeoverBad" class="card-img rounded-0" alt="Makeover badeværelse"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/badkort.jpg" id="makeoverBad" class="card-img rounded-0" alt="Makeover badeværelse"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/pynt.jpg" id="commingSoonInspiIndret" class="card-img rounded-0" alt="Pynt dit soverværelse"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/pynt.jpg" id="commingSoonInspiIndret" class="card-img rounded-0" alt="Pynt dit soverværelse"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/nogleskab2.jpg" id="commingSoonInspiIndret" class="card-img rounded-0" alt="Nøgleskab"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/nogleskab2.jpg" id="commingSoonInspiIndret" class="card-img rounded-0" alt="Nøgleskab"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/sengeset.png" id="sengeSat" class="card-img rounded-0" alt="Sengesæt"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/sengeset.png" id="sengeSat" class="card-img rounded-0" alt="Sengesæt"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/skabsplads.jpg" id="commingSoonInspiIndret" class="card-img rounded-0" alt="Få god skabsplads"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/skabsplads.jpg" id="commingSoonInspiIndret" class="card-img rounded-0" alt="Få god skabsplads"> </a> </div>
   </div>
 </div>
 <button onclick="topFunction()" id="myBtn" title="Go to top">&#8593;</button>
@@ -1227,22 +1227,22 @@ let indkob = `
 <!--content-->
 <div class="row">
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/ikea.png" id="ikea" class="card-img rounded-0" alt="IKEA"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/ikea.png" id="ikea" class="card-img rounded-0" alt="IKEA"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/forste_indkobstur.jpg" id="fotex" class="card-img rounded-0" alt="Føtex"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/forste_indkobstur.jpg" id="fotex" class="card-img rounded-0" alt="Føtex"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/studierabat.png" id="commingSoonInspiIndkob" class="card-img rounded-0" alt="Indkøbsliste"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/studierabat.png" id="commingSoonInspiIndkob" class="card-img rounded-0" alt="Indkøbsliste"> </a> </div>
   </div>
 	<div class="col-12 col-md-4">
-    	<div class="card bg-dark"> <a href=""> <img src="images/tilbudsaviser.jpg" id="commingSoonInspiIndkob" class="card-img rounded-0" alt="Indkøbsliste"> </a> </div>
+    	<div class="card"> <a href=""> <img src="images/tilbudsaviser.jpg" id="commingSoonInspiIndkob" class="card-img rounded-0" alt="Indkøbsliste"> </a> </div>
   </div>
 	<div class="col-12 col-md-4">
-    	<div class="card bg-dark"> <a href=""> <img src="images/loppemarked.jpg" id="commingSoonInspiIndkob" class="card-img rounded-0" alt="Indkøbsliste"> </a> </div>
+    	<div class="card"> <a href=""> <img src="images/loppemarked.jpg" id="commingSoonInspiIndkob" class="card-img rounded-0" alt="Indkøbsliste"> </a> </div>
   </div>
 	<div class="col-12 col-md-4">
-    	<div class="card bg-dark"> <a href=""> <img src="images/gratis-facebook.jpg" id="commingSoonInspiIndkob" class="card-img rounded-0" alt="Indkøbsliste"> </a> </div>
+    	<div class="card"> <a href=""> <img src="images/gratis-facebook.jpg" id="commingSoonInspiIndkob" class="card-img rounded-0" alt="Indkøbsliste"> </a> </div>
   </div>
 </div>
 <button onclick="topFunction()" id="myBtn" title="Go to top">&#8593;</button>
@@ -1346,22 +1346,22 @@ let opskrift = `
 <!--content-->
 <div class="row">
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/nemmad.jpg" id="budgetMad" class="card-img rounded-0" alt="Madbudget"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/nemmad.jpg" id="budgetMad" class="card-img rounded-0" alt="Madbudget"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/vegetar.jpg" id="commingSoonInspiOpskrift" class="card-img rounded-0" alt="Vegetar"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/vegetar.jpg" id="commingSoonInspiOpskrift" class="card-img rounded-0" alt="Vegetar"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/vegan.jpg" id="commingSoonInspiOpskrift" class="card-img rounded-0" alt="Veganer"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/vegan.jpg" id="commingSoonInspiOpskrift" class="card-img rounded-0" alt="Veganer"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/kod.jpg" id="commingSoonInspiOpskrift" class="card-img rounded-0" alt="Kødspiseren"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/kod.jpg" id="commingSoonInspiOpskrift" class="card-img rounded-0" alt="Kødspiseren"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/tom.jpg" id="commingSoonInspiOpskrift" class="card-img rounded-0" alt="Tøm køleskabet"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/tom.jpg" id="commingSoonInspiOpskrift" class="card-img rounded-0" alt="Tøm køleskabet"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/ukrudt.jpg" id="commingSoonInspiOpskrift" class="card-img rounded-0" alt="Spis dit ukrudt"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/ukrudt.jpg" id="commingSoonInspiOpskrift" class="card-img rounded-0" alt="Spis dit ukrudt"> </a> </div>
   </div>
 </div>
 <button onclick="topFunction()" id="myBtn" title="Go to top">&#8593;</button>
@@ -1431,31 +1431,31 @@ let rengoring = `
 <!--content-->
 <div class="row">
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/opvask.png" id="commingSoonPrakRen" class="card-img rounded-0" alt="opvaskebillede"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/opvask.png" id="commingSoonPrakRen" class="card-img rounded-0" alt="opvaskebillede"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/plet.png" id="plet" class="card-img rounded-0" alt="Få den plet væk"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/plet.png" id="plet" class="card-img rounded-0" alt="Få den plet væk"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/indstillinger.png" id="commingSoonPrakRen" class="card-img rounded-0" alt="Tørretumbler"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/indstillinger.png" id="commingSoonPrakRen" class="card-img rounded-0" alt="Tørretumbler"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/rensbad.jpg" id="badeforhang" class="card-img rounded-0" alt="Badeforhæng"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/rensbad.jpg" id="badeforhang" class="card-img rounded-0" alt="Badeforhæng"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/tojvask.jpg" id="commingSoonPrakRen" class="card-img rounded-0" alt="Tøjvask"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/tojvask.jpg" id="commingSoonPrakRen" class="card-img rounded-0" alt="Tøjvask"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/handklaeder_1.png" id="commingSoonPrakRen" class="card-img rounded-0" alt="Håndklæder"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/handklaeder_1.png" id="commingSoonPrakRen" class="card-img rounded-0" alt="Håndklæder"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/five.png" id="femRen" class="card-img rounded-0" alt="5 gode rengøringsråd"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/five.png" id="femRen" class="card-img rounded-0" alt="5 gode rengøringsråd"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/gulvvask.png" id="commingSoonPrakRen" class="card-img rounded-0" alt="Gulvvask"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/gulvvask.png" id="commingSoonPrakRen" class="card-img rounded-0" alt="Gulvvask"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/aflob2.jpg" id="commingSoonPrakRen" class="card-img rounded-0" alt="Rens dit afløb"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/aflob2.jpg" id="commingSoonPrakRen" class="card-img rounded-0" alt="Rens dit afløb"> </a> </div>
   </div>
 </div>
 <button onclick="topFunction()" id="myBtn" title="Go to top">&#8593;</button>
@@ -1636,22 +1636,22 @@ let gorDetSelv = `
 <!--content-->
 <div class="row">
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/lampedone.png" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="En lampe"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/lampedone.png" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="En lampe"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/tvbox_1.png" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="En tv-boks"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/tvbox_1.png" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="En tv-boks"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/tools.jpg" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="Værktøj"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/tools.jpg" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="Værktøj"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/handbog.png" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="Håndbog"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/handbog.png" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="Håndbog"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/internet.jpg" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="Internet"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/internet.jpg" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="Internet"> </a> </div>
   </div>
   <div class="col-12 col-md-4">
-    <div class="card bg-dark"> <a href=""> <img src="images/hylde2.jpg" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="Hylde"> </a> </div>
+    <div class="card"> <a href=""> <img src="images/hylde2.jpg" id="commingSoonPrakGorSelv" class="card-img rounded-0" alt="Hylde"> </a> </div>
   </div>
 </div>
 <button onclick="topFunction()" id="myBtn" title="Go to top">&#8593;</button>
