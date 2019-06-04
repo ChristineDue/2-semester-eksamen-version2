@@ -21,6 +21,15 @@ a:hover{
 	text-decoration: none;
 }
 
+.center-text{
+	margin: auto;
+}
+
+
+
+
+
+
 														/*go  to the top knap*/
 
 #myBtn {
@@ -295,6 +304,11 @@ h4{
 	display: none;
 }
 
+/*Go to top knap*/
+#myBtn:hover {
+  	background-color: none;
+}
+	
 /*Stue*/
 .planter img{
 	height: auto;
