@@ -199,6 +199,12 @@ h4{
 	display: inline;
 }
 
+.banner iframe{
+	width: 98%;
+	height: 100%;
+	border: none;
+}
+
 /*Opskrifter*/
 .mad img{
 	height: auto;
